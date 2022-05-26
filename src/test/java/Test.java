@@ -1,8 +1,8 @@
 public class Test {
 
     //*** dbdgb
-    // типа что то сделали на ветке
+    public static void main(String[] args) {
+        System.out.println("Hello word");
+    }
 
-    ///ветка 2
-    //ыраипыловав
 }
